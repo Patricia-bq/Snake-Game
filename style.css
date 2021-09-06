@@ -1,3 +1,10 @@
 body {
-
+  height: 95vh;
+  width: 95VW;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  color: rgb(36, 129, 36); 
 }
